@@ -1,0 +1,169 @@
+<?xml version="1.0"?>
+<root ptr="0x558c9d127260" id="0" symbol="11SwRootFrame" lower="1">
+ <sfxViewShells>
+  <SwView>
+   <SfxViewShell ptr="0x558c9a617a70" id="0"/>
+   <SwCursorShell>
+    <SwViewShell/>
+    <m_pCurrentCursor>
+     <SwPaM>
+      <point>
+       <SwPosition nNode="9" nContent="0"/>
+      </point>
+     </SwPaM>
+    </m_pCurrentCursor>
+   </SwCursorShell>
+  </SwView>
+ </sfxViewShells>
+ <infos>
+  <bounds left="284" top="284" width="15091" height="15840" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+  <prtBounds left="0" top="0" width="15091" height="15840"/>
+ </infos>
+ <page ptr="0x558c9a418e90" id="1" symbol="11SwPageFrame" upper="0" lower="2">
+  <page_status ValidFlyLayout="true" ValidFlyContent="true" ValidFlyInCnt="true" ValidLayout="true" ValidContent="true"/>
+  <infos>
+   <bounds left="3135" top="284" width="12240" height="15840" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1440" top="1440" width="9360" height="12960"/>
+  </infos>
+  <body ptr="0x558c9d18a800" id="2" symbol="11SwBodyFrame" upper="1" lower="3">
+   <infos>
+    <bounds left="4575" top="1724" width="9360" height="12960" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9360" height="12960"/>
+   </infos>
+   <txt ptr="0x558c9d10f190" id="3" symbol="11SwTextFrame" next="4" upper="2" txtNodeIndex="9" WritingMode="Horizontal">
+    <infos>
+     <bounds left="4575" top="1724" width="9360" height="526" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9360" height="526"/>
+    </infos>
+برای ارتباط با سخت افزار ها سیستم عامل به وجود امده است.مدیرت دستورها باسسیستم عامل هستش و بهشون اولیت بندی میکنه.    <Text nLength="83" nType="PortionType::Text" nHeight="253" nWidth="8696" Portion="&#x628;&#x631;&#x627;&#x6CC; &#x627;&#x631;&#x62A;&#x628;&#x627;&#x637; &#x628;&#x627; &#x633;&#x62E;&#x62A; &#x627;&#x641;&#x632;&#x627;&#x631; &#x647;&#x627; &#x633;&#x6CC;&#x633;&#x62A;&#x645; &#x639;&#x627;&#x645;&#x644; &#x628;&#x647; &#x648;&#x62C;&#x648;&#x62F; &#x627;&#x645;&#x62F;&#x647; &#x627;&#x633;&#x62A;.&#x645;&#x62F;&#x6CC;&#x631;&#x62A; &#x62F;&#x633;&#x62A;&#x648;&#x631;&#x647;&#x627; &#x628;&#x627;&#x633;&#x633;&#x6CC;&#x633;&#x62A;&#x645; &#x639;&#x627;&#x645;&#x644;"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <LineBreak nWidth="8696" Line="&#x628;&#x631;&#x627;&#x6CC; &#x627;&#x631;&#x62A;&#x628;&#x627;&#x637; &#x628;&#x627; &#x633;&#x62E;&#x62A; &#x627;&#x641;&#x632;&#x627;&#x631; &#x647;&#x627; &#x633;&#x6CC;&#x633;&#x62A;&#x645; &#x639;&#x627;&#x645;&#x644; &#x628;&#x647; &#x648;&#x62C;&#x648;&#x62F; &#x627;&#x645;&#x62F;&#x647; &#x627;&#x633;&#x62A;.&#x645;&#x62F;&#x6CC;&#x631;&#x62A; &#x62F;&#x633;&#x62A;&#x648;&#x631;&#x647;&#x627; &#x628;&#x627;&#x633;&#x633;&#x6CC;&#x633;&#x62A;&#x645; &#x639;&#x627;&#x645;&#x644; "/>
+    <Text nLength="30" nType="PortionType::Lay" nHeight="253" nWidth="3188" Portion="&#x647;&#x633;&#x62A;&#x634; &#x648; &#x628;&#x647;&#x634;&#x648;&#x646; &#x627;&#x648;&#x644;&#x6CC;&#x62A; &#x628;&#x646;&#x62F;&#x6CC; &#x645;&#x6CC;&#x6A9;&#x646;&#x647;."/>
+    <LineBreak nWidth="3188" Line="&#x647;&#x633;&#x62A;&#x634; &#x648; &#x628;&#x647;&#x634;&#x648;&#x646; &#x627;&#x648;&#x644;&#x6CC;&#x62A; &#x628;&#x646;&#x62F;&#x6CC; &#x645;&#x6CC;&#x6A9;&#x646;&#x647;."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x558c9d0e1c70" id="4" symbol="11SwTextFrame" next="5" prev="3" upper="2" txtNodeIndex="10" WritingMode="Horizontal">
+    <infos>
+     <bounds left="4575" top="2250" width="9360" height="433" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9360" height="253"/>
+    </infos>
+ابزار خیلی قوی سیستم عامل ها برای ما ترمینال هست.    <Text nLength="49" nType="PortionType::Para" nHeight="253" nWidth="4987" Portion="&#x627;&#x628;&#x632;&#x627;&#x631; &#x62E;&#x6CC;&#x644;&#x6CC; &#x642;&#x648;&#x6CC; &#x633;&#x6CC;&#x633;&#x62A;&#x645; &#x639;&#x627;&#x645;&#x644; &#x647;&#x627; &#x628;&#x631;&#x627;&#x6CC; &#x645;&#x627; &#x62A;&#x631;&#x645;&#x6CC;&#x646;&#x627;&#x644; &#x647;&#x633;&#x62A;."/>
+    <LineBreak nWidth="4987" Line="&#x627;&#x628;&#x632;&#x627;&#x631; &#x62E;&#x6CC;&#x644;&#x6CC; &#x642;&#x648;&#x6CC; &#x633;&#x6CC;&#x633;&#x62A;&#x645; &#x639;&#x627;&#x645;&#x644; &#x647;&#x627; &#x628;&#x631;&#x627;&#x6CC; &#x645;&#x627; &#x62A;&#x631;&#x645;&#x6CC;&#x646;&#x627;&#x644; &#x647;&#x633;&#x62A;."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x558c9d1a52c0" id="5" symbol="11SwTextFrame" next="6" prev="4" upper="2" txtNodeIndex="11" WritingMode="Horizontal">
+    <infos>
+     <bounds left="4575" top="2683" width="9360" height="438" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9360" height="258"/>
+    </infos>
+ویندوز هم اومد تا ترمینال لینوکس رو مانند اپ بیاریم بالا وwsl(کرنل لینوکس رو برامون به وجود اورده)     <Text nLength="58" nType="PortionType::Text" nHeight="253" nWidth="5160" Portion="&#x648;&#x6CC;&#x646;&#x62F;&#x648;&#x632; &#x647;&#x645; &#x627;&#x648;&#x645;&#x62F; &#x62A;&#x627; &#x62A;&#x631;&#x645;&#x6CC;&#x646;&#x627;&#x644; &#x644;&#x6CC;&#x646;&#x648;&#x6A9;&#x633; &#x631;&#x648; &#x645;&#x627;&#x646;&#x646;&#x62F; &#x627;&#x67E; &#x628;&#x6CC;&#x627;&#x631;&#x6CC;&#x645; &#x628;&#x627;&#x644;&#x627; &#x648;"/>
+    <Text nLength="3" nType="PortionType::Multi" Portion="wsl"/>
+    <Text nLength="38" nType="PortionType::Text" nHeight="253" nWidth="3696" Portion="(&#x6A9;&#x631;&#x646;&#x644; &#x644;&#x6CC;&#x646;&#x648;&#x6A9;&#x633; &#x631;&#x648; &#x628;&#x631;&#x627;&#x645;&#x648;&#x646; &#x628;&#x647; &#x648;&#x62C;&#x648;&#x62F; &#x627;&#x648;&#x631;&#x62F;&#x647;) "/>
+    <LineBreak nWidth="9212" Line="&#x648;&#x6CC;&#x646;&#x62F;&#x648;&#x632; &#x647;&#x645; &#x627;&#x648;&#x645;&#x62F; &#x62A;&#x627; &#x62A;&#x631;&#x645;&#x6CC;&#x646;&#x627;&#x644; &#x644;&#x6CC;&#x646;&#x648;&#x6A9;&#x633; &#x631;&#x648; &#x645;&#x627;&#x646;&#x646;&#x62F; &#x627;&#x67E; &#x628;&#x6CC;&#x627;&#x631;&#x6CC;&#x645; &#x628;&#x627;&#x644;&#x627; &#x648;wsl(&#x6A9;&#x631;&#x646;&#x644; &#x644;&#x6CC;&#x646;&#x648;&#x6A9;&#x633; &#x631;&#x648; &#x628;&#x631;&#x627;&#x645;&#x648;&#x646; &#x628;&#x647; &#x648;&#x62C;&#x648;&#x62F; &#x627;&#x648;&#x631;&#x62F;&#x647;) "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x558c9d0e90c0" id="6" symbol="11SwTextFrame" next="7" prev="5" upper="2" txtNodeIndex="12" WritingMode="Horizontal">
+    <infos>
+     <bounds left="4575" top="3121" width="9360" height="433" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9360" height="253"/>
+    </infos>
+نحوه نصب    <Text nLength="8" nType="PortionType::Para" nHeight="253" nWidth="961" Portion="&#x646;&#x62D;&#x648;&#x647; &#x646;&#x635;&#x628;"/>
+    <LineBreak nWidth="961" Line="&#x646;&#x62D;&#x648;&#x647; &#x646;&#x635;&#x628;"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x558c9d1900c0" id="7" symbol="11SwTextFrame" next="8" prev="6" upper="2" txtNodeIndex="13" WritingMode="Horizontal">
+    <infos>
+     <bounds left="4575" top="3554" width="9360" height="438" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9000" height="258"/>
+    </infos>
+Turn windows features on or off    <Special nLength="0" nType="PortionType::Number" rText="1" nHeight="220">
+     <SwFont ptr="0x558c9e0b7d20" color="ffffffff"/>
+    </Special>
+    <Special nLength="0" nType="PortionType::Number" rText="." nHeight="220">
+     <SwFont ptr="0x558c9dfb2800" color="ffffffff"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="253" nWidth="360"/>
+    <Text nLength="31" nType="PortionType::Multi" Portion="Turn windows features on or off"/>
+    <LineBreak nWidth="4046" Line="1.Turn windows features on or off"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x558c9d190230" id="8" symbol="11SwTextFrame" next="9" prev="7" upper="2" txtNodeIndex="14" WritingMode="Horizontal">
+    <infos>
+     <bounds left="4575" top="3992" width="9360" height="438" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9360" height="258"/>
+    </infos>
+برای فعال کردن wsl تیک های زیر رو فعال میکنیم    <Text nLength="15" nType="PortionType::Text" nHeight="253" nWidth="1523" Portion="&#x628;&#x631;&#x627;&#x6CC; &#x641;&#x639;&#x627;&#x644; &#x6A9;&#x631;&#x62F;&#x646; "/>
+    <Text nLength="3" nType="PortionType::Multi" Portion="wsl"/>
+    <Text nLength="27" nType="PortionType::Text" nHeight="253" nWidth="2570" Portion=" &#x62A;&#x6CC;&#x6A9; &#x647;&#x627;&#x6CC; &#x632;&#x6CC;&#x631; &#x631;&#x648; &#x641;&#x639;&#x627;&#x644; &#x645;&#x6CC;&#x6A9;&#x646;&#x6CC;&#x645;"/>
+    <LineBreak nWidth="4449" Line="&#x628;&#x631;&#x627;&#x6CC; &#x641;&#x639;&#x627;&#x644; &#x6A9;&#x631;&#x62F;&#x646; wsl &#x62A;&#x6CC;&#x6A9; &#x647;&#x627;&#x6CC; &#x632;&#x6CC;&#x631; &#x631;&#x648; &#x641;&#x639;&#x627;&#x644; &#x645;&#x6CC;&#x6A9;&#x646;&#x6CC;&#x645;"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x558c9d1903a0" id="9" symbol="11SwTextFrame" next="10" prev="8" upper="2" txtNodeIndex="15" WritingMode="Horizontal">
+    <infos>
+     <bounds left="4575" top="4430" width="9360" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9360" height="256"/>
+    </infos>
+Virtual machine platform    <Text nLength="24" nType="PortionType::Multi" Portion="Virtual machine platform"/>
+    <LineBreak nWidth="2749" Line="Virtual machine platform"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x558c9d190510" id="10" symbol="11SwTextFrame" next="11" prev="9" upper="2" txtNodeIndex="16" WritingMode="Horizontal">
+    <infos>
+     <bounds left="4575" top="4866" width="9360" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9360" height="256"/>
+    </infos>
+Windows subsystem for linux    <Text nLength="27" nType="PortionType::Multi" Portion="Windows subsystem for linux"/>
+    <LineBreak nWidth="3221" Line="Windows subsystem for linux"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x558c9d190680" id="11" symbol="11SwTextFrame" next="12" prev="10" upper="2" txtNodeIndex="17" WritingMode="Horizontal">
+    <infos>
+     <bounds left="4575" top="5302" width="9360" height="433" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9000" height="253"/>
+    </infos>
+حالا میتونید دنبال اوبنتو 22.4برید    <Special nLength="0" nType="PortionType::Number" rText="2" nHeight="220">
+     <SwFont ptr="0x558c9e820a00" color="ffffffff"/>
+    </Special>
+    <Special nLength="0" nType="PortionType::Number" rText="." nHeight="220">
+     <SwFont ptr="0x558c9e0c4400" color="ffffffff"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="253" nWidth="360"/>
+    <Text nLength="26" nType="PortionType::Text" nHeight="253" nWidth="2108" Portion="&#x62D;&#x627;&#x644;&#x627; &#x645;&#x6CC;&#x62A;&#x648;&#x646;&#x6CC;&#x62F; &#x62F;&#x646;&#x628;&#x627;&#x644; &#x627;&#x648;&#x628;&#x646;&#x62A;&#x648; "/>
+    <Text nLength="4" nType="PortionType::Multi" Portion="22.4"/>
+    <Text nLength="4" nType="PortionType::Text" nHeight="253" nWidth="359" Portion="&#x628;&#x631;&#x6CC;&#x62F;"/>
+    <LineBreak nWidth="3438" Line="2.&#x62D;&#x627;&#x644;&#x627; &#x645;&#x6CC;&#x62A;&#x648;&#x646;&#x6CC;&#x62F; &#x62F;&#x646;&#x628;&#x627;&#x644; &#x627;&#x648;&#x628;&#x646;&#x62A;&#x648; 22.4&#x628;&#x631;&#x6CC;&#x62F;"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x558c9d1907f0" id="12" symbol="11SwTextFrame" next="13" prev="11" upper="2" txtNodeIndex="18" WritingMode="Horizontal">
+    <infos>
+     <bounds left="4575" top="5735" width="9360" height="273" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="20" width="9000" height="253"/>
+    </infos>
+یوزرنیم وپسورد میزنیم .ترمینال میاد بالا    <Special nLength="0" nType="PortionType::Number" rText="3" nHeight="220">
+     <SwFont ptr="0x558c9a1b6720" color="ffffffff"/>
+    </Special>
+    <Special nLength="0" nType="PortionType::Number" rText="." nHeight="220">
+     <SwFont ptr="0x558c9e7f14f0" color="ffffffff"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="253" nWidth="360"/>
+    <Text nLength="40" nType="PortionType::Text" nHeight="253" nWidth="3552" Portion="&#x6CC;&#x648;&#x632;&#x631;&#x646;&#x6CC;&#x645; &#x648;&#x67E;&#x633;&#x648;&#x631;&#x62F; &#x645;&#x6CC;&#x632;&#x646;&#x6CC;&#x645; .&#x62A;&#x631;&#x645;&#x6CC;&#x646;&#x627;&#x644; &#x645;&#x6CC;&#x627;&#x62F; &#x628;&#x627;&#x644;&#x627;"/>
+    <LineBreak nWidth="4095" Line="3.&#x6CC;&#x648;&#x632;&#x631;&#x646;&#x6CC;&#x645; &#x648;&#x67E;&#x633;&#x648;&#x631;&#x62F; &#x645;&#x6CC;&#x632;&#x646;&#x6CC;&#x645; .&#x62A;&#x631;&#x645;&#x6CC;&#x646;&#x627;&#x644; &#x645;&#x6CC;&#x627;&#x62F; &#x628;&#x627;&#x644;&#x627;"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x558c9d190960" id="13" symbol="11SwTextFrame" next="14" prev="12" upper="2" txtNodeIndex="19" WritingMode="Horizontal">
+    <infos>
+     <bounds left="4575" top="6008" width="9360" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9360" height="256"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x558c9d190ad0" id="14" symbol="11SwTextFrame" prev="13" upper="2" txtNodeIndex="20" WritingMode="Horizontal">
+    <infos>
+     <bounds left="4575" top="6444" width="9360" height="436" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9360" height="256"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+</root>
